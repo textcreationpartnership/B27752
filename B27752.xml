@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The complaint of Rob. Oxwick, and company, ovvners of the ship endeavour: and of Ri. Baker, and company, proprietors of the said ships lading, both amounts to 16587. l. against the French, of their proceedings, want of justice, and satisfaction.</title>
+            <author>Oxwick, Robert.</author>
+         </titleStmt>
+         <extent>Approx. 37KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27752</idno><idno type="EEBO-CITATION">99885623</idno>
+  <idno type="VID">185441</idno>
+  <idno type="EEBO-PROQUEST">2240899811</idno>
+  
+            <idno type="STC">Wing O999</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.10[118]</idno>
+            <idno type="STC">ESTC R224736</idno>
+            <idno type="PROQUEST">ocm99885623</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885623e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27752)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185441)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C1:2[117])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The complaint of Rob. Oxwick, and company, ovvners of the ship endeavour: and of Ri. Baker, and company, proprietors of the said ships lading, both amounts to 16587. l. against the French, of their proceedings, want of justice, and satisfaction.</title>
+                  <author>Oxwick, Robert.</author>
+               </titleStmt>
+               <extent>9, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1658?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Endeavour (Ship) --  Early works to 1800.</term>
+               <term type="topical_term">Ships --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:185441:1"/>
+            <head>THE COMPLAINT OF Rob. Oxwick, and Company, OVVNERS OF THE SHIP ENDEAVOUR:</head>
+            <head type="sub">AND OF <hi>Ri. Baker,</hi> and Company, Proprietors of the said SHIPS Lading, both amounts to 16587. <hi>l.</hi> against the <hi>French,</hi> of their Proceedings, want of Justice, and Satis<g ref="char:EOLhyphen"/>faction.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hese Witnesses were examined by the Judges of the Admiral<g ref="char:EOLhyphen"/>ty, the <hi>French</hi> Ambassador being notified, and the dayes for monition put on the Exchange; <hi>John Bowers, John Farpley, Will. Tustin, Henry Teat, William Jopp, Tho. Humphries;</hi> all of them depose; how that four <hi>French</hi> Ships under the command of <hi>Giles de la Roach,</hi> belonging to the Marshal <hi>de Mil Ree,</hi> did take the <hi>Endeavour</hi> the 21 of <hi>November,</hi> 1655. with three hundred and thirteen Pipes of Canary-Wines, and other Goods near the <hi>Canaries,</hi> where they la<g ref="char:EOLhyphen"/>ded the said Ship, and were sailing for <hi>London,</hi> for the accounts of <hi>Richard Baker,</hi> and Company, all <hi>English</hi> Merchants, and laden in <hi>Tenerife</hi> by English men their Factors.</p>
+            <pb n="2" facs="tcp:185441:2"/>
+            <p> That the said Ship belonged to <hi>Rob. Oxwick,</hi> and Company, built in the River of <hi>Thames,</hi> and all her Owners also English men.</p>
+            <p>After the <hi>English</hi> were so taken, they implored <hi>de la Roach,</hi> and others of the <hi>French</hi> Commanders to put them on some of the <hi>Canary Islands,</hi> and afterwards on <hi>Cape de Verde Islands:</hi> answer was made them, that they should not be set on any Christian shoar, for they would not have them to get home to <hi>England</hi> to tell Tales.</p>
+            <p>That when the <hi>English</hi> asked them wherefore they took them, and not three other <hi>English</hi> ships that were within a League of them? they answered, that if those Ships in sight were for <hi>Spaniards</hi> accounts and laden with Wines, that they would take them, and set their Ship at liberty, for that they had no Commission to take <hi>Eng<g ref="char:EOLhyphen"/>lish;</hi> although they had met with divers <hi>English</hi> ships they had not medled with them.</p>
+            <p>That they could not obtain any Commission against the <hi>English,</hi> they having stay<g ref="char:EOLhyphen"/>ed in <hi>Rochel</hi> many daies, in expectation to have procured a Commission before their departure.</p>
+            <p>That they knew that the Peace was made betwixt <hi>France</hi> and <hi>England.</hi>
+            </p>
+            <p>That they were ordered to go for <hi>Lixboa</hi> to have taken in Wines for their Provi<g ref="char:EOLhyphen"/>sions, for <hi>Malagasca,</hi> and the Red Sea, whether they said they were bound, but were hindred by contrary Winds, which was the reason they resolved to go to the <hi>Cana<g ref="char:EOLhyphen"/>ry-Islands,</hi> knowing that they should be supplied thereabouts, it being the season of the year, that if they had been laden with any other Merchandice, they would not have medled with them. But their necessity was great for the Wines for their long Voyage, but assured them that their Setters-forth were very rich men, &amp; well able to pay for the Ship and Lading, and believed that they must make satisfaction for the same.</p>
+            <p>That they afterwards set the Master, and thirteen more of the <hi>English,</hi> (having stript them, and most cruelly used them) ashoar in <hi>Guinny</hi> amongst the barbarous <hi>Negroes,</hi> leaving them no other sustenance than one hundred weight of Bisket, and a Pipe of Wine, where they were fifteen Weeks in great perill and hazard of their lives, and then by a miraculous providence met with an opportunity of Transporta<g ref="char:EOLhyphen"/>tion in a <hi>Flemmish</hi> Vessel.</p>
+            <p>That they carried away with them violently the Master, his Mate, and all the rest of the <hi>English</hi> in their Ships, together with the <hi>Endeavour,</hi> and her whole La<g ref="char:EOLhyphen"/>ding, two of the <hi>English</hi> afterwards in another place in <hi>Guinney</hi> cast themselves in the night into the Sea through a Port-hole, and most strangely escaped, and af<g ref="char:EOLhyphen"/>terwards got for <hi>England.</hi>
+            </p>
+            <p>These proofs as they were commanded to be taken by his Highness special Order, so the Judges of the Admiralty were commanded to remit them for <hi>Paris,</hi> which were Sealed by them, and sent accordingly. And by order of the Kings Council they were translated in <hi>French</hi> in the year 1656.</p>
+            <p>His late Highness was gratiously pleased to write his several Letters to the King, and Cardinal, dated in <hi>September,</hi> 1656. and in <hi>June</hi> 1657. pressing that Justice might be done us; and as well his said Highness, as the Right Honourable his Secre<g ref="char:EOLhyphen"/>tary <hi>Thurloe</hi> have also wrote several Letters to the Lord <hi>Lockhart,</hi> that he should urgently use his intercession for the same, according to the Treaty by which it is capi<g ref="char:EOLhyphen"/>tulated, that within three months in all such cases Justice should be done.</p>
+            <p>The Ambassador the Lord <hi>Lockhart</hi> interposed, when our proofs and Petitions were presented in the Council, yet notwithstanding they would not admit them be<g ref="char:EOLhyphen"/>fore they had given advice thereof to the Marshal <hi>de Mill Ree,</hi> and that they had his answer. Then after some months they permitted us to proceed in the course of Justice, and made a Decree that the said Marshall should appear by such a time, but neither he, nor any other for him doing it; Whereupon we obtained a second Decree from the King, and Council, dated the 27 of <hi>January,</hi> 16<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6/<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>7. that the said Marshal should have yet two months time more to make his appearance for his discharge or defence, before Judgement should be given. The 20 of <hi>Feb.</hi> following we caused the said De<g ref="char:EOLhyphen"/>cree
+<pb n="3" facs="tcp:185441:2"/> to be notified (to our great charge and hazard.) And the 8. of <hi>May</hi> 1657. testi<g ref="char:EOLhyphen"/>mony is given by the notary of the Council, that neither he, nor any other for him had appeared, but stood out in contempt, and rebeldia.</p>
+            <p>Then the Lord <hi>Lockhart,</hi> and our Agent prest urgently for a hearing, and for a sentence, which according to Justice, and to their proceedings and Laws they ought to give us; and it was the first of <hi>September,</hi> 1657. before the Court could be got to hear the cause, and their sentence was:</p>
+            <p>
+               <q rend="margQuotes">
+                  <hi>That they the Court should write to the King to beseech his Majesty that he would write to the Marshal.</hi>
+               </q>
+            </p>
+            <p>The sixt of <hi>October</hi> following, the Master of Requests was to be sent into <hi>Brittany,</hi> by the Order of the Council, to recover our monies of the Marshal.</p>
+            <p>The 2. of <hi>January</hi> 1657/58. the Master of Requests returned from <hi>Brittany,</hi> and then they offered our Ambassador 8000 Pistols composition.</p>
+            <p>Seeing that we could have no Justice in <hi>France,</hi> we returned to make our reitera<g ref="char:EOLhyphen"/>ted Complaints to his Highness of their proceedings, and Petitioned again for Letters of Reprisal. Whereupon,</p>
+            <p>The 25 of <hi>March</hi> 1658. his Highness Council of State ordered that the Judges of the Admiralty, and his Highness, together with his Advocate, should examine and peruse our Papers, and give their Judgements thereupon, and to report the same.</p>
+            <p>The said Judges, and his Highness Advocate did unanimously certifie, that we ought to have restitution for the Ship and Goods, with dammages amounting to 16587. <hi>l.</hi> for that it was a foul spoil done contrary to the Treaty, Laws of Nations, and common right.</p>
+            <p>The 10. of <hi>June</hi> ensuing, the same was seen by his Highness Honourable Council, where we continued to Petition for Letters of Reprizal for our Reparation, many Families as well as Persons being hereby ruined; it was Ordered by the Council, That Mr. Secretary <hi>Thurloe</hi> should send Copies of the said Report, with his Letters, both to the <hi>French</hi> Ambassador, and to the Lord <hi>Lockhart,</hi> desiring them to make their Addresses, that sudden satisfaction shoud be given us, which effectually his Honour wrote presently, and the same were delivered.</p>
+            <p>In order thereunto the Lord <hi>Lockhart</hi> wrote to Count <hi>Bryene</hi> the Secretary of State, how that if they gave us not satisfaction, Letters of Reprizal would be issued for the Relief of the <hi>English,</hi> for that his Highness could not be so tender of others Subjects that had done the wrong, as of his own that had received it; but all hath not availed, for we can get no satisfaction.</p>
+            <p>
+               <q rend="margQuotes">When they had notice in <hi>France</hi> of our Petitioning for Letters of Reprizal, and that the Judges of the Admiralty were commanded to make known to his Highness, and to his Council of State, the case, and how barbarously and cruelly they had u<g ref="char:EOLhyphen"/>sed us contrary to the Treaty.</q>
+            </p>
+            <p>Then we received advice from <hi>Paris,</hi> dated <hi>May</hi> 22. 1658. in these words:</p>
+            <p>
+               <hi>There is a decree against you here, and Monsieur</hi> Petit <hi>our Ambassadors Agent desired to have it out, but they will not give it, the Master of Requests hath been much against you, yet he saith he is not satisfied in it yet,</hi> so it is like that they Re<g ref="char:EOLhyphen"/>pent it.</p>
+            <p>By another of the 26. of the said month, <hi>It is very true that they have condemned your Ship as lawful Prize, but how the condemnation is I know not, for they will not give it out;</hi> by which you may perceive their Justice, and the Reporter <hi>Busherat,</hi> (much against the interest of <hi>English)</hi> confessed to Mr. <hi>Petit,</hi> and Mr. <hi>Morrel,</hi> that it was not done according to a legal course of Justice.</p>
+            <p>The 16. of <hi>June, Your Counsellor hath petitioned the Court for a Copy of your pa<g ref="char:EOLhyphen"/>pers, and of the sentence,</hi> but it is denied, saying, that they are in several mens hands, and that we could not have them.</p>
+            <p>The 27 of <hi>July, That the Papers cannot be got;</hi> nor will they, except his Higness desire them.</p>
+            <pb n="4" facs="tcp:185441:3"/>
+            <p> It is advised that the Secretary of State hath 40000 Livers Stock with the Marshal <hi>de Mil Ree</hi> in the <hi>Malagasca</hi> design.</p>
+            <p>We have had an Agent in <hi>Paris</hi> upwards of thirty months attending this business, who was never advised that any sentence was to be given, but it was secretly done without any notice, or our Council so much as being heard, when for sixteen months before we were daily pressing the Court for a hearing, and for Justice.</p>
+            <p>It is presumed that they grounded their sentence on the dayes, as if by the Treaty they might lawfully then take us, and not be liable to make restitution.</p>
+            <p>And that Monsieur <hi>Burdoes</hi> had writ to their Secretary <hi>Count Bryen,</hi> that Mr. Se<g ref="char:EOLhyphen"/>cretary <hi>Thurloe</hi> had allowed him fifteen dayes more than were at first agreed on, un<g ref="char:EOLhyphen"/>to which his Honour hath answered, that he never gave any such dayes.</p>
+            <p>They carried the Ship, lading, and Men directly away with them, and never brought them to any Port in <hi>France,</hi> or Judicature, or Condemnation, <hi>&amp;c.</hi>
+            </p>
+            <p>This was done by their own private Authority, knowing of the Peace without Commission, Examination, or Condemnation by any Court, wherefore they can pre<g ref="char:EOLhyphen"/>tend no colour for their taking us, for by the <hi>French</hi> Law it is most expresly forbid<g ref="char:EOLhyphen"/>den, that none by private Authority shall set out ships to Sea, though against the enemies of <hi>France,</hi> without Commission; wherefore they so cruelly and barbarously used the <hi>English,</hi> and carried them away to conceal the crime committed, and the punishment due to them for their so doing, to Friends in the time of Peace; yea when they knew that there was a Peace, carried all away, Ship, Lading, and Men, which by the <hi>French</hi> Law should undergo both confiscation of Goods, and Corporal punishment, and be made exemplary.</p>
+            <p>By the 17 and 18. Article of the Treaty, it is agreed, <hi>That if any Commander of either Nation shall take any Prizes at Sea, they shall within four and twenty hours deliver their Papers, Books, Bill of Lading, &amp;c. into the hands of the Judges of the Admiralty, that the parties concerned might have Copies, and that the Sea-men shall not be taken out of their Ship, nor Bulk broken, nor any Goods taken out, or put ashoar without order of the Court of Admiralty.</hi>
+            </p>
+            <p>
+               <hi>That they shall not take out the Masters, or Officers out of their Ships, unless for ex<g ref="char:EOLhyphen"/>amination, and for that not above two or three of them, and they to be brought to the Judges of the Admiralty within four and twenty hours, and they are to be set at liberty, that they may follow their business as they shall think fit.</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">Now these that have done contrary to all Law, may perchance alledge Law by way of pretence out of the penning of the Articles of the Peace, and would ground themselves on a part of the Third Article.</q>
+            </p>
+            <p>
+               <hi>That what shall be taken on any pretence after fourteen dayes next after the Publi<g ref="char:EOLhyphen"/>cation, shall well and truly be restored.</hi>
+            </p>
+            <p>
+               <hi>That the present Treaty shall within fifteen dayes, or sooner if it may be confirmed, and ratified in due and authentique form by both parties, by their Letters Patents un<g ref="char:EOLhyphen"/>der their Great Seals; and that Instruments of Ratisication shall be delivered inter<g ref="char:EOLhyphen"/>changeably within the time aforesaid; and furthermore that this Treaty and Consi<g ref="char:EOLhyphen"/>deration shall immediatly after delivery of the Instruments be published.</hi>
+            </p>
+            <list>
+               <item>1. The Treaty or Peace is made the 3. of <hi>Novemb.</hi> new stile, or the 24. of <hi>Octob.</hi> old stile.</item>
+               <item>2. By the 28. Article, Publication is to be made immediately after the Ratificati<g ref="char:EOLhyphen"/>on, and the Ratification is to be made within fifteen dayes next after the third of <hi>Nov.</hi> New Stile, or 24 <hi>Octob.</hi> Old Stile, or sooner if it may be.</item>
+            </list>
+            <p>So add 15 dayes to the 3. of <hi>Nov.</hi> New Stile, is the 18. and add 14 dayes to that upon that part of the Article, for what shall be taken after fourteen dayes shall be restored, falls out the 2. of <hi>Dec.</hi> New Stile, or the 22. of <hi>Nov.</hi> Old Stile, 1655. and they seized the <hi>English</hi> Ship the 21. of <hi>Nov.</hi> Old Stile.</p>
+            <p>How vain and falacious is this Reckoning, and Objection?</p>
+            <p n="1">1. By considering the scope (even declared) and true meaning of the whole Trea<g ref="char:EOLhyphen"/>ty
+<pb n="5" facs="tcp:185441:3"/> being all well weighed (concerning this Case) put together as they ought, and must be, and not single out a particular part of an Article by it self, as the <hi>French</hi> might be imagined to do; for as the Peace is prudentially penned, so it provides in the first Article:</p>
+            <p>
+               <hi>From henceforth shall be a firm Peace, Amity, and Alliance betwixt the Nations.</hi>
+            </p>
+            <p>So the Third Article;</p>
+            <p>
+               <hi>From henceforth</hi> (that is the 3. of <hi>Novemb.</hi> 1655. New Stile) <hi>all acts of Hostility shall cease on both sides, as well on the Sea, as at Land, &amp;c.</hi>
+            </p>
+            <p>Peace was then made the 3. of <hi>Novemb.</hi> New stile, all Hostility from thence to cease; all that have no Commission or power from the King, are concluded hereby, and acting without Law, or Judgement of any Court, as soon as their King makes any Peace with other Princes, they become trebly Delinquents: 1. To their King; 2. To him with whom the Peace was made; 3. To the Parties from whom they take and spoil.</p>
+            <p>'Tis not said that there shall be no Peace, or cessation of Hostility till publication, but a Peace made absolute of it self; From hence-forth all acts of Hostility shall cease, from the 3. of <hi>Novemb.</hi> New stile; and the clause for publication is an additi<g ref="char:EOLhyphen"/>onal Clause, only to give notice, and make publication that all may know the peace was made, as appears by the very words of the 28. or last Article.</p>
+            <p>
+               <hi>And furthermore that this Treaty shall be published immediatly after delivery of the Instruments in the usual places accustomed.</hi>
+            </p>
+            <p>
+               <hi>Ʋbi denuntiatio vel publicatio requiretur solum ad finem notificandi, Alexander Consil</hi> 24 <hi>un. lib.</hi> 4. <hi>&amp; Consil</hi> 138. <hi>lib.</hi> 7.</p>
+            <p>The Peace made, the last Clause requires nothing but publication for those that know it not; and is the <hi>Sciencia,</hi> and not the <hi>Substancia,</hi> otherwise the <hi>Sciencia</hi> would be more than the <hi>Substancia.</hi>
+            </p>
+            <p>To conclude, the most this Clause can extend to, is for those that were armed with lawful power by Commission with a charge of purpose, and did not know of the peace, <hi>&amp;c.</hi> brought the Ship, Lading, and Men into the Ports to be adjudged, and condemned; were those for whom those dayes were to be understood that were mentioned, to the end that a competent time might be given them whereby to hear of the peace, that they might come in, which works the Clause of the third Article.</p>
+            <p>
+               <hi>And what shall be taken upon any pretence after fourteen dayes next immediately af<g ref="char:EOLhyphen"/>ter the Publication, shall well and truly be restored, &amp;c.</hi>
+            </p>
+            <p>Which Clause doth not yet inable the condemnation of what even these shall take after the Peace made, though before the dayes of publication, but acquits them from Delinquency to their Prince, <hi>&amp;c.</hi> In a word, this Clause of the Article are those meant that are upon their purchase, and armed by lawful Commission, have just cause of seizure, and shall be so adjudged to be, for after the Peace made they were no longer enemies, but Friends, not in Hostility, but Amity.</p>
+            <p>
+               <hi>Regula est quod debet intelligi quinino quod libet in capitulis pacis, expressum debet Convent lib.</hi> 27. <hi>tit.</hi> 5. <hi>m.</hi> 6.</p>
+            <p>1 Article; <hi>From henceforth,</hi> the 3. of <hi>November</hi> New stile, <hi>It is agreed and concluded there shall be a firm Peace, Amity, Alliance, and Confederacy betwixt the Nations.</hi> And in the 3. Article, <hi>That from henceforth all acts of Hostility shall cease on both sides, as well by Sea and Land;</hi> Certainly they have their vertue and operati<g ref="char:EOLhyphen"/>on, and they would have none at all if the words, from henceforth (which is the <hi>Tur<g ref="char:EOLhyphen"/>minus aquo)</hi> should not have its weight: for take away them, and there were no time for them to begin at all, for it is not afterwards said that the Peace shall begin from the publication, which is absurd, or from any time afterwards.</p>
+            <p>It were strange and absurd that the 3. Article should not only contradict the first, but that from henceforth there should be a peace, and from henceforth there should not be a Peace, but that it should contradict it self, and should bear the same sence, that from henceforth all acts of Hostility shall cease on both sides, and yet from henceforth all acts of Hostility shall not cease on either side; but both sides shall act contrary to Peace, and use acts of Hostility till fourteen dayes after publica<g ref="char:EOLhyphen"/>tion of the Treaty.</p>
+            <pb n="6" facs="tcp:185441:4"/>
+            <p> There can be no repugnancy or contradiction in the Articles, and comparing them together, it is clear that from henceforth (from the 3. of <hi>Novemb.</hi> 1655. new stile) there shall be a firm peace and amity betwixt <hi>England</hi> and <hi>France,</hi> and that all acts of Hostility shall cease from henceforth, and all Letters of Marque, or Reprizal shall be recalled and made void (as in the 3. Article expresseth it,) and yet for that alrea<g ref="char:EOLhyphen"/>dy Letters of Marque and Reprizal are gone out, Powers and Commissions are issued; this. Treaty shall be published as in the 28. Article, to give them and all others no<g ref="char:EOLhyphen"/>tice that there is such a firm peace, and Confederation made; and because the Peace being so made, from henceforth, all persons that from henceforth should act contrary to it, or exercise acts of Hostility, should be <hi>Pacis Violatores,</hi> Delinquents, and subject to criminal punishment; besides costs, dammages, and interest, to the persons depredated; yea though they had Letters of Marque, Power, or Commissi<g ref="char:EOLhyphen"/>on formerly and duly issued out, all fell off by this Peace, therefore to prevent such punishment to those that were ignorant of the Peace, so acting by Letters of Marque, Power, or Commission, and were not in fault by continuance of their actings, were ignorant of the Peace. A time was put for them in the Affirmative, only that what taken after fourteen dayes upon any pretence, after publication shall be restored, but doth not grant them at all, property to condemn what they shall take.</p>
+            <p>The People injured contrary to the Peace (even before the fourteen dayes) shall be set upright, and their Persons and Goods freed as in time of Peace, firmly made the 3. of <hi>Novemb.</hi> and so all stands together without fraud, or repugnancy, or preju<g ref="char:EOLhyphen"/>dice, <hi>&amp;c.</hi>
+            </p>
+            <p>The property of Peace consisting in lenity, tranquility, and security, or safety of Persons, and Goods.</p>
+            <p>The Judges of the Admiralty and his Highness Advocate, Doctor <hi>Walker's</hi> Report was thus.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="court_decision">
+                        <p>
+                           <hi>Vpon full Debate and Consideration</hi> of the Articles of the Peace, and Laws of Na<g ref="char:EOLhyphen"/>tions, we are clear of opinion, That the surprizal of the <hi>English</hi> ship the <hi>Endea<g ref="char:EOLhyphen"/>vour,</hi> and 313 Pipes of Canary-Wines, and other Goods therein laden belonging to <hi>English,</hi> done by <hi>de la Roach,</hi> and other <hi>French</hi> upon the 21. of <hi>November,</hi> 1655. English-stile after that the peace was concluded, and after to themselves known and confessed, that they knew that it was concluded; and when themselves acknowledg<g ref="char:EOLhyphen"/>ed they had no Commission to seize any <hi>English,</hi> and had stayed to get a Commissi<g ref="char:EOLhyphen"/>on, but could get none in respect of the peace, was a tort, &amp; wrong, &amp; foul spoil done contrary to the peace, and contrary to common right, and that their owners and principals are liable, and ought as the said <hi>de la Roach,</hi> and the <hi>French</hi> themselves also confessed they ought to do, and must do, to make reparation and satisfaction to the <hi>English</hi> for the same, with Costs, Dammages, and Interest in such cases usual; and allbeit that this as the Fact is, makes the case the stronger, yet if the <hi>French</hi> had had a Commission, it would not in this case, being taken after the Peace made, have hindred the <hi>English</hi> from restituion by common right.</p>
+                        <p>We are all unanimously clear of opinion that all requisite, either by the Articles of Peace, or Laws, or Customes of Nations have been fully observed, so as his High<g ref="char:EOLhyphen"/>ness may according to the 3. Article of the Peace, which allows it, and by the Rules and practice of Nations grant final Letters of Marque upon this special case to the <hi>English</hi> Petitioners against the <hi>French</hi> for satisfaction of their said losses of the said Ship <hi>Endeavour,</hi> Tackle, and Furniture, and three hundred and thirteen Pipes of <hi>Canary</hi> Wines, and their other Goods taken from them as aforesaid, the value whereof amounts to 12955 <hi>l.</hi> and the value of the Ship 2500 <hi>l.</hi> her Freight 782 <hi>l.</hi> the Seamens Instruments, Cloaths, and Goods 350 <hi>l.</hi> the whole 3632 <hi>l.</hi> both 16587 <hi>l.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimony">
+                        <head>Thomas Adkinson, <hi>an English Marriner, one of those they took out of the</hi> ENDEAVOUR, <hi>and forcibly carried with them, made Oath before the Lord</hi> Barkstead <hi>Lieutenant of the Tower;</hi>
+                        </head>
+                        <pb n="7" facs="tcp:185441:4"/>
+                        <p> How that the said <hi>de la Roach</hi> did take an <hi>English</hi> ship near the <hi>Bite</hi> in <hi>Guinney,</hi> and took out of her the Master whose Name was <hi>Fisbel,</hi> and his Chirurgeon, and threw eighteen men into the Sea, and having taken out of the Ship what was good in her, they set her on fire.</p>
+                        <p>That the said <hi>Fisbel</hi> and his Chirurgeon afterwards dyed, and the chief Mate of the <hi>Endeavour</hi> was starved, and dyed in irons.</p>
+                        <p>That when they came to the <hi>Indies,</hi> they manned out the Ship <hi>Endeavour</hi> with intention to have carried all the <hi>English</hi> to <hi>Arabia</hi> to have sold them for slaves, but the <hi>Monson</hi> (or Wind) turning prevented them.</p>
+                        <p>That since, all the <hi>English</hi> were dead except himself.</p>
+                        <p>That the four <hi>French</hi> ships had 56 great brass Ordinance belonging to the State of <hi>England,</hi> which they had from Prince <hi>Rupert.</hi>
+                        </p>
+                        <p>That meeting with Captain <hi>Tayler</hi> coming from the <hi>Indies,</hi> the said <hi>de la Roach</hi> fought with him, but could not take the ship.</p>
+                        <p>That petitioning the Marshal <hi>de Mill Ree</hi> in <hi>Nants,</hi> he said that he must pay 16000. <hi>l.</hi> for the ship, and goods, and bid him to go to that Bugree <hi>Cromwel</hi> for his Wages, and with other abusive language.</p>
+                        <p>And further offereth to swear, that the said <hi>de la Roach</hi> after their arrival in <hi>Nants</hi> carried him before a Judge to declare that the ship <hi>Endeavour</hi> and her lading did belong unto <hi>Spaniards,</hi> and taking out a handful of Pistols, threw one of them to him, and promised to give him all those Pistols, and more-over said he would pay him his wages if he would swear it; and when they had notice that he had not de<g ref="char:EOLhyphen"/>clared so, one of the Captains that was with <hi>de la Roach</hi> in his Voyage, did run at him with his Sword drawn, and having escaped, and being advised that he should be kill'd if he did not get away, he stole aboard of a Vessel in the mouth of the Ri<g ref="char:EOLhyphen"/>ver, and so came for <hi>England.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="testimony">
+                        <head>
+                           <hi>John Stone</hi> chief Mate of the <hi>English</hi> ship <hi>Adventure,</hi> whereof <hi>Joseph Tayler</hi> was Commander, declared upon Oath before the Lord <hi>Barkstead,</hi> Lieutenant of the Tower;</head>
+                        <p>That as they were sailing from the <hi>East-India</hi> to <hi>London</hi> in the month of <hi>April,</hi> 1656. they met with one of the four ships belonging to the Marshal <hi>de Mill Ree,</hi> and after they had haled them, and told them that they were of <hi>Rochel,</hi> and that there was Peace betwixt <hi>England</hi> and <hi>France,</hi> and that both were joyned in a War against <hi>Spain,</hi> and so desired the <hi>English</hi> to come aboard their <hi>French</hi> ship, which the <hi>English</hi> refusing to do, they the <hi>French</hi> shot at the <hi>English,</hi> and the fight continued for two dayes, and at last left them; it was a mercy that the other three ships of their company were not with them, having lost company.</p>
+                        <p>By the fight the <hi>English</hi> ship had above 1000 <hi>l.</hi> dammage.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>We the <hi>English</hi> have been thus inhumanly dealt withall by Subjects of <hi>France</hi> in the time of Peace, doing it of their own private Authority without any Commissi<g ref="char:EOLhyphen"/>on, or bringing Ship or Men to any place for Judicature, or Condemnation: and to conceal the same, made away all, contrary to the Laws of Nations, and most directly against their own Laws, and common right, and yet the King and his Council have had no regard thereunto, but rather they have found out all evasions whereby we may be kept from having of our right; all which considered, we hope that his Highness and his Council will do us Justice, and not to permit them thus to remain with what they have so violently and unjustly taken from us; and therefore we continue most humbly to desire that we may have Letters of Reprizal granted us against the <hi>French,</hi> for our Principals, Interest, and dammages, (which in our ap<g ref="char:EOLhyphen"/>prehensions is a most just and modest request) whereby the Nations may be ballan<g ref="char:EOLhyphen"/>ced, (besides the Justice due to our own interests) for the <hi>English</hi> are weakened thereby, the Nations being made up of their parts and members, his Higbness is con<g ref="char:EOLhyphen"/>cerned in his Revenue, as well as we most humbly conceive he is for our protection, and in seeing that the Treaty be kept.</p>
+            <pb n="8" facs="tcp:185441:5"/>
+            <p> We the interessed Complain, and with us this whole Nation are grieved, That the Marshal <hi>de Mill Ree</hi>'s Ships have not only disturbed us in our Traffique, de<g ref="char:EOLhyphen"/>stroyed our Men, but have robbed us of 16587. <hi>l.</hi> And consequently prejudiced his Highness 133353 <hi>l.</hi> 15 <hi>s.</hi> The People of 171948 <hi>l.</hi> 3 <hi>s.</hi> (that perchance have starved for want of work in their Professions.) That 9159 <hi>l. sterl.</hi> worth of Wool remains on the Gentlemen, Farmers, or Grasiers hands unsold; or that which is worse, that the Wool hath been carried to <hi>Holland,</hi> and there made up into Manifacturies; and that these seeming improbabilities may appear to be truth; We tender this account worthy of all serious Consideration.</p>
+            <p>
+               <table>
+                  <head>PROPOSED▪</head>
+                  <row>
+                     <cell cols="2">The Costs and Charges of the Goods until arrive abroad.</cell>
+                     <cell> </cell>
+                     <cell cols="2">What gained by the People for labour and Industry.</cell>
+                     <cell cols="2">What his Highness for Custome and Excize.</cell>
+                     <cell cols="2">What comes to his Highness and the Na<g ref="char:EOLhyphen"/>tion.</cell>
+                  </row>
+                  <row>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell>UPon a 100 peeces of Perpetuanos, which are made of 2200 pounds of Wool, each peece of 22 <hi>l.</hi> weight, which at 9 <hi>d. per l.</hi> amounts to 82 <hi>l.</hi> 10 <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>350.</cell>
+                     <cell> </cell>
+                     <cell>The said 100 peeces of Perpetuanos will cost the Merchant 3 <hi>l.</hi> 10 <hi>s. per</hi> peece white, first penny, which amounts to 350 <hi>l.</hi> out of this deduct 82 <hi>l.</hi> 10 <hi>s.</hi> the cost of the Wool, so the remainder is 267 <hi>l.</hi> 10 <hi>s.</hi> which is gained for labour, and industry, as for Car<g ref="char:EOLhyphen"/>ding, Spinning, Weaving, Fullers, Clothiers, Carriers, and others</cell>
+                     <cell>267.</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>17.</cell>
+                     <cell>10</cell>
+                     <cell>Dying, Packing, Pressing, Dressing, Drying, Drawing, Porters, Carmen, <hi>&amp;c.</hi> 5 <hi>per cent.</hi> after it comes to the Merchant</cell>
+                     <cell>17.</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>17.</cell>
+                     <cell>10</cell>
+                     <cell>For Custome to the State at least 5 <hi>per cent.</hi> to be paid by the Merchant when shipt</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>17.</cell>
+                     <cell>10</cell>
+                     <cell>375.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>45.</cell>
+                     <cell> </cell>
+                     <cell>Assuring the same with charges, at 10 <hi>per cent.</hi>
+                     </cell>
+                     <cell>45.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>45</cell>
+                     <cell> </cell>
+                     <cell>Allow the Merchant to gain on his Adven<g ref="char:EOLhyphen"/>ture, 10 <hi>per cent.</hi>
+                     </cell>
+                     <cell>45.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>280.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>475.</cell>
+                     <cell> </cell>
+                     <cell>So the Merchant must have abroad for the 100 peeces of Perpetuanos, 475 <hi>l.</hi> which imployed in 35 Buts of Wine at 13 <hi>l.</hi> 11 <hi>s.</hi> 5 <hi>d.</hi> the Butt or Pipe, the Custome is 3 <hi>l.</hi> the Excise 4 <hi>l.</hi> 10 <hi>s. per</hi> Butt to his High<g ref="char:EOLhyphen"/>ness, amounts to</cell>
+                     <cell>375.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>262.</cell>
+                     <cell>10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>280.</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell>655.</cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>So that for 82 <hi>l.</hi> 10 <hi>s.</hi> of Wool, his Highness hath 280 <hi>l.</hi> and the Individuals of the Nation 375 <hi>l.</hi> (both 655 <hi>l.)</hi> which they gain for labour and industry, in a Voy<g ref="char:EOLhyphen"/>age of four to six months time, the Shipping and Marriners maintained &amp; imployed, and this not only on the Merchants real Estate, but on his Credit, Monies at In<g ref="char:EOLhyphen"/>terest, Exchanges, <hi>&amp;c.</hi> the material which is the Wool is also paid for by the Peo<g ref="char:EOLhyphen"/>ple whither sent, so that the whole amounts to 737 <hi>l.</hi> 10 <hi>s.</hi> insomuch that this with its daily motion is more than Interest upon Interest, a hundred-fold; and thus do Nations grow Rich, abound in Shipping, <hi>&amp;c.</hi> as the one spends more of the Commodities of the other, it most insensibly decreaseth the one, and enrich<g ref="char:EOLhyphen"/>eth the other.</p>
+            <pb n="9" facs="tcp:185441:5"/>
+            <p>
+               <table>
+                  <row>
+                     <cell>An exact account made up <hi>pro rata</hi> only of 12955 <hi>l.</hi> belonging to the Merchant ta<g ref="char:EOLhyphen"/>ken by the <hi>French</hi> the 21. of <hi>November</hi> English, or Old stile.</cell>
+                     <cell cols="2">What would have been gain<g ref="char:EOLhyphen"/>ed by the People for labour and Industry.</cell>
+                     <cell cols="2">What would have been gain<g ref="char:EOLhyphen"/>ed by his Highness for Custome and Excize.</cell>
+                     <cell cols="2">What would have been gained to his Highness and the Na<g ref="char:EOLhyphen"/>tion.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>For Custome and Excise of 313 Pipes of Ca<g ref="char:EOLhyphen"/>naries taken in the <hi>Endeavour,</hi> at 7 <hi>l.</hi> 10 <hi>s. per</hi> Pipe,</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell cols="2">2347.10</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Admit the Merchant makes but one adven<g ref="char:EOLhyphen"/>ture in the year (though they commonly make two) with the 12955 <hi>l.</hi> for <hi>anno</hi> 1656. <hi>pro rata,</hi> amounts to</cell>
+                     <cell>57316.</cell>
+                     <cell> </cell>
+                     <cell cols="2">43968.15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For the year 1657. as aforesaid without in<g ref="char:EOLhyphen"/>crease of stock, amounts to</cell>
+                     <cell>57316.</cell>
+                     <cell> </cell>
+                     <cell cols="2">43968.25</cell>
+                     <cell cols="2">171948.3</cell>
+                  </row>
+                  <row>
+                     <cell>For the year 1658. in the same conformity without increase of Stock, or Credit</cell>
+                     <cell>57316.</cell>
+                     <cell> </cell>
+                     <cell cols="2">43968.15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>So there would have been gained to the People in three years</cell>
+                     <cell cols="2">171948.3</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell cols="2">133353.15</cell>
+                  </row>
+                  <row>
+                     <cell>Would have been of Income to his Highness for Custom and Excize</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell cols="2">133353.15</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The People and his Highness are pre<g ref="char:EOLhyphen"/>judiced in three years</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell cols="2">305301.18</cell>
+                  </row>
+                  <row>
+                     <cell>The Wool would also have been paid for, which perchance hath been carried to the <hi>Hollander,</hi> and made up into Manufacturies there to our great loss, amounts to</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell cols="2">9150.</cell>
+                  </row>
+                  <row>
+                     <cell>For the want of the 12955 <hi>l.</hi> principal, the prejudice to the Nation already hath been</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                     <cell cols="2">314460.18</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And in this account there can be no fallacy, except it be to the prejudice of the <hi>English,</hi> for it is not made up as Interest upon Interest, or as Increase upon In<g ref="char:EOLhyphen"/>crease, but its only made up simply.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
